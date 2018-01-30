@@ -3,9 +3,63 @@ An Online Retail Management, Custommer Order Processing System and Admin Stock M
 
 # E-Shopper Framework
 An Online Retail Management, Custommer Order Processing System and Admin Stock Managment 
-##### -By Selomon Goitom email: selomongoitom@gmail.com
+##### -By Selomon Goitom email: selomongoitom@gmail.com or tomsol28@yahoo.co.uk
 
-Follow the documentation 
+# What you will build
+
+1 Welcome page
+The welcome page is the site's home page, it is an entry point for the application. It introduces the business and service to the user. It also allows the user to navigate to any of the products subcategories and categories.
+
+2 Category page 
+The category page provides a listing of all products within selected category.  As a result, the user is able to view all product information, and add any of the listed items to her or his shopping cart. A user can also navigate to any of the provided categories.
+ 
+3 Subcategory page 
+The subcategory page provides a listing of all products within selected category.  As a result, the user is able to view all product information, and add any of the listed items to her or his shopping cart. A user can also navigate to any of the provided subcategories.
+ 
+4 Cart page
+The cart page lists all products held in the user's shopping cart. It shows item information for each product, and calculates the subtotal for items in cart. From this page, a use can:
+"	Update the quantity for any listed product.
+"	Clear all items in her or his shopping cart.
+"	Return to the previous subcategory or category by clicking continue shopping.
+"	Proceed to checkout.
+
+5 Checkout page
+The checkout page collects information from the customer using form. This page also shows purchase conditions, and summarizes the order by providing calculations for the total cost.
+
+6 Confirmation page
+The confirmation page returns a message to the customer confirming that the order was successfully recorded. It also provides an order reference number is provided to the customer, as well a summary listing order details.
+ 
+7 Contact us page
+The contact us page collects any comments from customer, if the customer seeks any help or service regarding his or her order information.  
+ 
+8 User welcome page
+User welcome page is the site's customer home page, and after the customer has been accesses successfully.  From this page, it shows login username with logout functionality.
+   
+9 Customer Login Page
+The customer login page provides customer login form, and it authenticates customer's information if the customer does exist in system. 
+ 
+10 Customer registration page
+The customer registration page collects signup information from customer using form. This also displays a link login page.
+ 
+11 Admin login page
+The admin login page provides admin login form, and validates the information that has been entered the data input.
+ 
+12 Admin Stock Management page
+The admin management page lists all order details, and handles to add/edit/delete product details. It also handles both category and subcategory to add/edit /delete in the system.
+ 
+13 Item view page 
+The item page displays a single view of selected item. From this page, a user is able to add the selected product to his or her shopping cart. 
+
+14 Grid view page 
+Grid view page provides a listing of products. In this case, a user is able to view the product details by clicking "Quick view".
+ 
+15 Item View with Related Product page
+The item page displays a single view of selected item. It also provides related products based on the selected item. From this page, the user is capable to add the selected product or from the "Related Products" to his or her shopping cart. 
+ 
+ 
+This post walks you through the process of creating an e-commerce site, installing and setting up the tooling components and technologies.
+
+# Follow the documentation 
 
 For detailed setup instructions, see:  http://netbeans.org/kb/docs/javaee/ecommerce/setup.html
 
