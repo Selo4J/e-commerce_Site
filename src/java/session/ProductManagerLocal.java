@@ -1,0 +1,29 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package session;
+
+import entity.Product;
+import java.util.List;
+import javax.ejb.Local;
+
+/**
+ *
+ * @author tomsol28
+ */
+@Local
+public interface ProductManagerLocal {
+
+    void addProduct(Product product);
+
+    void editProduct(Product product);
+
+    void deleteProduct(Integer id);
+
+    Product getProduct(Integer id);
+
+    List<Product> getAllProduct();
+    
+}
