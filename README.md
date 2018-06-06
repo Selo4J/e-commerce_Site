@@ -15,11 +15,12 @@ The welcome page is the site's home page, it is an entry point for the applicati
 ### Grid view page: 
 Grid view page provides a listing of products. In this case, a user is able to view the product details by clicking "Quick view".
 
+<img width="355" alt="image" src="https://user-images.githubusercontent.com/28166699/41017645-ba736ae4-694d-11e8-9b9d-1810ba5c480f.png">
  
 ### Item View with Related Product page:
 The item page displays a single view of selected item. It also provides related products based on the selected item. From this page, the user is capable to add the selected product or from the "Related Products" to his or her shopping cart. 
  
-
+<img width="295" alt="image" src="https://user-images.githubusercontent.com/28166699/41017671-d7197e22-694d-11e8-97a0-49748e1b8902.png">
 
 ### Category page
 The category page provides a listing of all products within selected category.  As a result, the user is able to view all product information, and add any of the listed items to her or his shopping cart. A user can also navigate to any of the provided categories.
@@ -62,24 +63,25 @@ The customer login page provides customer login form, and it authenticates custo
 <img width="341" alt="image" src="https://user-images.githubusercontent.com/28166699/41017220-db07e69c-694b-11e8-902f-a2c8789a8c5b.png">
 
  
-### Customer registration page:
+### Customer registration page
 The customer registration page collects signup information from customer using form. This also displays a link login page.
 
 <img width="356" alt="image" src="https://user-images.githubusercontent.com/28166699/41017225-e45ab044-694b-11e8-904b-d939d051a129.png">
 
  
-### Admin login page:
+### Admin login page
 The admin login page provides admin login form, and validates the information that has been entered the data input.
 
+<img width="311" alt="image" src="https://user-images.githubusercontent.com/28166699/41017590-76c2152a-694d-11e8-8cad-4be2fbe7fd8b.png">
 
  
 ### Admin Stock Management page:
 The admin management page lists all order details, and handles to add/edit/delete product details. It also handles both category and subcategory to add/edit /delete in the system.
- 
-### Item view page:
-The item page displays a single view of selected item. From this page, a user is able to add the selected product to his or her shopping cart. 
 
- 
+<img width="334" alt="image" src="https://user-images.githubusercontent.com/28166699/41017613-9090c640-694d-11e8-9b6b-a56f17edb067.png">
+
+<img width="267" alt="image" src="https://user-images.githubusercontent.com/28166699/41017631-a0ae2a36-694d-11e8-974c-352fd96626c3.png">
+
 This post walks you through the process of creating an e-commerce site, installing and setting up the tooling components and technologies.
 
 # Follow the documentation 
